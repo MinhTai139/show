@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "761819338982",
+    "firebase_url": "https://vidu12-5e94e-default-rtdb.firebaseio.com",
+    "project_id": "vidu12-5e94e",
+    "storage_bucket": "vidu12-5e94e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761819338982:android:5e616a12ec9c91bdc18327",
+        "android_client_info": {
+          "package_name": "com.example.duan_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3invWBvBhfnLrb9Y1Yh2-FDWZTqwaPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
